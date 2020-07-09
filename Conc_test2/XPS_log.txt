@@ -1,0 +1,230 @@
+Mg anode
+Started processing 08-07-2020 18:14:09
+Samples: source-etched 2 min, source-surf, washed1-etched 2min, washed1-surf, washed2-etched 2 min, washed2-surf
+
+
+//----------------------------------------------------------------------------
+Sample: source-etched 2 min
+Elements: C, O, Ag
+Charge shift: -0.1 eV
+
+Element: C
+State:1s1/2
+Raw intensity: 7613.86
+Recalculated intensity: 7613.86 cross-section: 1.0
+Summ: 7613.86
+
+Element: O
+State:1s1/2
+Raw intensity: 3235.92
+Recalculated intensity: 1135.41 cross-section: 2.85
+State:1s1/2
+Raw intensity: 1389.55
+Recalculated intensity: 487.56 cross-section: 2.85
+Summ: 1622.97
+
+Element: Ag
+State:3d5/2
+Raw intensity: 232305.63
+Recalculated intensity: 21751.46 cross-section: 10.68
+State:3d3/2
+Raw intensity: 145318.3
+Recalculated intensity: 19744.33 cross-section: 7.36
+Summ: 41495.79
+
+Relative concentrations in source-etched 2 min:
+C: 15.01 %
+O: 3.2 %
+Ag: 81.79 %
+
+//----------------------------------------------------------------------------
+Sample: source-surf
+Elements: C, O, Ag
+Charge shift: -0.1 eV
+
+Element: C
+State:1s1/2
+Raw intensity: 10233.65
+Recalculated intensity: 10233.65 cross-section: 1.0
+State:1s1/2
+Raw intensity: 2490.75
+Recalculated intensity: 2490.75 cross-section: 1.0
+State:1s1/2
+Raw intensity: 2456.87
+Recalculated intensity: 2456.87 cross-section: 1.0
+Summ: 15181.27
+
+Element: O
+State:1s1/2
+Raw intensity: 6429.85
+Recalculated intensity: 2256.09 cross-section: 2.85
+State:1s1/2
+Raw intensity: 7013.11
+Recalculated intensity: 2460.74 cross-section: 2.85
+Summ: 4716.83
+
+Element: Ag
+State:3d5/2
+Raw intensity: 158917.52
+Recalculated intensity: 14879.92 cross-section: 10.68
+State:3d3/2
+Raw intensity: 101293.76
+Recalculated intensity: 13762.74 cross-section: 7.36
+Summ: 28642.66
+
+Relative concentrations in source-surf:
+C: 31.28 %
+O: 9.72 %
+Ag: 59.01 %
+
+//----------------------------------------------------------------------------
+Sample: washed1-etched 2min
+Elements: C, O, Ag
+Charge shift: -0.4 eV
+
+Element: C
+State:1s1/2
+Raw intensity: 3191.26
+Recalculated intensity: 3191.26 cross-section: 1.0
+State:1s1/2
+Raw intensity: 1472.42
+Recalculated intensity: 1472.42 cross-section: 1.0
+Summ: 4663.68
+
+Element: O
+Summ: 0
+
+Element: Ag
+State:3d3/2
+Raw intensity: 165604.77
+Recalculated intensity: 22500.65 cross-section: 7.36
+Summ: 22500.65
+
+Relative concentrations in washed1-etched 2min:
+C: 17.17 %
+Ag: 82.83 %
+
+//----------------------------------------------------------------------------
+Sample: washed1-surf
+Elements: C, O, Ag
+Charge shift: -0.2 eV
+
+Element: C
+State:1s1/2
+Raw intensity: 8783.9
+Recalculated intensity: 8783.9 cross-section: 1.0
+State:1s1/2
+Raw intensity: 1922.69
+Recalculated intensity: 1922.69 cross-section: 1.0
+State:1s1/2
+Raw intensity: 2042.69
+Recalculated intensity: 2042.69 cross-section: 1.0
+Summ: 12749.28
+
+Element: O
+State:1s1/2
+Raw intensity: 7955.49
+Recalculated intensity: 2791.4 cross-section: 2.85
+State:1s1/2
+Raw intensity: 4915.4
+Recalculated intensity: 1724.7 cross-section: 2.85
+Summ: 4516.1
+
+Element: Ag
+State:3d5/2
+Raw intensity: 130887.36
+Recalculated intensity: 12255.37 cross-section: 10.68
+State:3d3/2
+Raw intensity: 96416.99
+Recalculated intensity: 13100.13 cross-section: 7.36
+Summ: 25355.5
+
+Relative concentrations in washed1-surf:
+C: 29.91 %
+O: 10.6 %
+Ag: 59.49 %
+
+//----------------------------------------------------------------------------
+Sample: washed2-etched 2 min
+Elements: C, O, Ag
+Charge shift: -0.4 eV
+
+Element: C
+State:1s1/2
+Raw intensity: 4687.81
+Recalculated intensity: 4687.81 cross-section: 1.0
+Summ: 4687.81
+
+Element: O
+State:1s1/2
+Raw intensity: 2540.55
+Recalculated intensity: 891.42 cross-section: 2.85
+State:1s1/2
+Raw intensity: 922.14
+Recalculated intensity: 323.56 cross-section: 2.85
+Summ: 1214.98
+
+Element: Ag
+State:3d5/2
+Raw intensity: 177472.13
+Recalculated intensity: 16617.24 cross-section: 10.68
+State:3d3/2
+Raw intensity: 110321.63
+Recalculated intensity: 14989.35 cross-section: 7.36
+Summ: 31606.59
+
+Relative concentrations in washed2-etched 2 min:
+C: 12.5 %
+O: 3.24 %
+Ag: 84.26 %
+
+//----------------------------------------------------------------------------
+Sample: washed2-surf
+Elements: C, O, Ag
+Charge shift: -0.2 eV
+
+Element: C
+State:1s1/2
+Raw intensity: 4752.55
+Recalculated intensity: 4752.55 cross-section: 1.0
+State:1s1/2
+Raw intensity: 2843.39
+Recalculated intensity: 2843.39 cross-section: 1.0
+State:1s1/2
+Raw intensity: 1694.04
+Recalculated intensity: 1694.04 cross-section: 1.0
+Summ: 9289.98
+
+Element: O
+State:1s1/2
+Raw intensity: 6724.77
+Recalculated intensity: 2359.57 cross-section: 2.85
+State:1s1/2
+Raw intensity: 5856.49
+Recalculated intensity: 2054.91 cross-section: 2.85
+Summ: 4414.48
+
+Element: Ag
+State:3d5/2
+Raw intensity: 135531.02
+Recalculated intensity: 12690.17 cross-section: 10.68
+State:3d3/2
+Raw intensity: 97087.73
+Recalculated intensity: 13191.27 cross-section: 7.36
+Summ: 25881.44
+
+Relative concentrations in washed2-surf:
+C: 23.47 %
+O: 11.15 %
+Ag: 65.38 %
+
+Pivot table:
+         source-etched 2 min  source-surf  ...  washed2-etched 2 min  washed2-surf
+Element                                    ...                                    
+C                      15.01        31.28  ...                 12.50         23.47
+O                       3.20         9.72  ...                  3.24         11.15
+Ag                     81.79        59.01  ...                 84.26         65.38
+
+[3 rows x 6 columns]
+
+Completed at 18:14:20

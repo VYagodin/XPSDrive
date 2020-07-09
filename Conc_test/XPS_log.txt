@@ -1,0 +1,240 @@
+Al anode
+Started processing 08-07-2020 17:34:07
+Samples: Empty, LBO 0%, LBO 1%, LBO 3%, Not empty
+
+
+//----------------------------------------------------------------------------
+Sample: Empty
+No files
+No elements
+Charge shift: 0 eV
+
+Relative concentrations in Empty:
+No concentrations
+
+//----------------------------------------------------------------------------
+Sample: LBO 0%
+Elements: Li, B, C, O, Mn, Co, Ni
+Charge shift: 3.4 eV
+
+Element: Li
+State:1s1/2
+Raw intensity: 1150.98
+Recalculated intensity: 20263.75 cross-section: 0.0568
+Summ: 20263.75
+
+Element: B
+Summ: 0
+
+Element: C
+Summ: 0
+
+Element: O
+State:1s1/2
+Raw intensity: 93220.14
+Recalculated intensity: 31815.75 cross-section: 2.93
+State:1s1/2
+Raw intensity: 59685.39
+Recalculated intensity: 20370.44 cross-section: 2.93
+Summ: 52186.19
+
+Element: Mn
+State:2p1/2
+Raw intensity: 31825.14
+Recalculated intensity: 6714.16 cross-section: 4.74
+State:2p3/2
+Raw intensity: 133428.46
+Recalculated intensity: 14550.54 cross-section: 9.17
+Summ: 21264.7
+
+Element: Co
+State:2p1/2
+Raw intensity: 27658.44
+Recalculated intensity: 4229.12 cross-section: 6.54
+State:2p3/2
+Raw intensity: 87126.56
+Recalculated intensity: 6903.85 cross-section: 12.62
+Summ: 11132.97
+
+Element: Ni
+State:2p1/2
+Raw intensity: 43947.88
+Recalculated intensity: 5805.53 cross-section: 7.57
+State:2p3/2
+Raw intensity: 29676.13
+Recalculated intensity: 2031.22 cross-section: 14.61
+State:2p1/2
+Raw intensity: 53749.11
+Recalculated intensity: 7100.28 cross-section: 7.57
+State:2p3/2
+Raw intensity: 68605.18
+Recalculated intensity: 4695.77 cross-section: 14.61
+Summ: 19632.8
+
+Relative concentrations in LBO 0%:
+Li: 16.28 %
+O: 41.92 %
+Mn: 17.08 %
+Co: 8.94 %
+Ni: 15.77 %
+
+//----------------------------------------------------------------------------
+Sample: LBO 1%
+Elements: Li, B, C, O, Mn, Co, Ni
+Charge shift: 3.7 eV
+
+Element: Li
+State:1s1/2
+Raw intensity: 1191.7
+Recalculated intensity: 20980.57 cross-section: 0.0568
+Summ: 20980.57
+
+Element: B
+State:1s1/2
+Raw intensity: 2080.16
+Recalculated intensity: 4280.17 cross-section: 0.486
+Summ: 4280.17
+
+Element: C
+Summ: 0
+
+Element: O
+State:1s1/2
+Raw intensity: 81746.4
+Recalculated intensity: 27899.8 cross-section: 2.93
+State:1s1/2
+Raw intensity: 59421.31
+Recalculated intensity: 20280.31 cross-section: 2.93
+Summ: 48180.11
+
+Element: Mn
+State:2p1/2
+Raw intensity: 26378.56
+Recalculated intensity: 5565.1 cross-section: 4.74
+State:2p3/2
+Raw intensity: 8453.24
+Recalculated intensity: 921.84 cross-section: 9.17
+Summ: 6486.94
+
+Element: Co
+State:2p1/2
+Raw intensity: 17949.37
+Recalculated intensity: 2744.55 cross-section: 6.54
+State:2p3/2
+Raw intensity: 54966.94
+Recalculated intensity: 4355.54 cross-section: 12.62
+Summ: 7100.09
+
+Element: Ni
+State:2p1/2
+Raw intensity: 24011.23
+Recalculated intensity: 3171.89 cross-section: 7.57
+State:2p3/2
+Raw intensity: 18471.18
+Recalculated intensity: 1264.28 cross-section: 14.61
+State:2p1/2
+Raw intensity: 32740.77
+Recalculated intensity: 4325.07 cross-section: 7.57
+State:2p3/2
+Raw intensity: 43026.2
+Recalculated intensity: 2944.98 cross-section: 14.61
+Summ: 11706.22
+
+Relative concentrations in LBO 1%:
+Li: 21.25 %
+B: 4.34 %
+O: 48.8 %
+Mn: 6.57 %
+Co: 7.19 %
+Ni: 11.86 %
+
+//----------------------------------------------------------------------------
+Sample: LBO 3%
+Elements: Li, B, C, O, Mn, Co, Ni
+Charge shift: 3.3 eV
+
+Element: Li
+State:1s1/2
+Raw intensity: 1344.65
+Recalculated intensity: 23673.45 cross-section: 0.0568
+Summ: 23673.45
+
+Element: B
+State:1s1/2
+Raw intensity: 6075.5
+Recalculated intensity: 12501.03 cross-section: 0.486
+Summ: 12501.03
+
+Element: C
+Summ: 0
+
+Element: O
+State:1s1/2
+Raw intensity: 37874.84
+Recalculated intensity: 12926.56 cross-section: 2.93
+State:1s1/2
+Raw intensity: 114006.7
+Recalculated intensity: 38910.14 cross-section: 2.93
+Summ: 51836.7
+
+Element: Mn
+State:2p1/2
+Raw intensity: 8151.16
+Recalculated intensity: 1719.65 cross-section: 4.74
+State:2p3/2
+Raw intensity: 39624.05
+Recalculated intensity: 4321.05 cross-section: 9.17
+Summ: 6040.7
+
+Element: Co
+State:2p1/2
+Raw intensity: 11175.71
+Recalculated intensity: 1708.82 cross-section: 6.54
+State:2p3/2
+Raw intensity: 31320.57
+Recalculated intensity: 2481.82 cross-section: 12.62
+Summ: 4190.64
+
+Element: Ni
+State:2p1/2
+Raw intensity: 14454.17
+Recalculated intensity: 1909.4 cross-section: 7.57
+State:2p3/2
+Raw intensity: 11653.57
+Recalculated intensity: 797.64 cross-section: 14.61
+State:2p1/2
+Raw intensity: 24504.57
+Recalculated intensity: 3237.06 cross-section: 7.57
+State:2p3/2
+Raw intensity: 28699.22
+Recalculated intensity: 1964.35 cross-section: 14.61
+Summ: 7908.45
+
+Relative concentrations in LBO 3%:
+Li: 22.3 %
+B: 11.78 %
+O: 48.83 %
+Mn: 5.69 %
+Co: 3.95 %
+Ni: 7.45 %
+
+//----------------------------------------------------------------------------
+Sample: Not empty
+No files
+No elements
+Charge shift: 0 eV
+
+Relative concentrations in Not empty:
+No concentrations
+
+Pivot table:
+         LBO 0%  LBO 1%  LBO 3%
+Element                        
+Li        16.28   21.25   22.30
+B          0.00    4.34   11.78
+O         41.92   48.80   48.83
+Mn        17.08    6.57    5.69
+Co         8.94    7.19    3.95
+Ni        15.77   11.86    7.45
+
+Completed at 17:34:26
